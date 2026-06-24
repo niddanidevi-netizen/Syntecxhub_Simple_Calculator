@@ -1,4 +1,4 @@
-# Command Line Calculator
+# Simple Calculator
 
 A lightweight, modular, and interactive Python command-line calculator. This application provides core arithmetic operations with color-coded terminal outputs, robust input validation, and a user-friendly control loop.
 
